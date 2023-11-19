@@ -2,8 +2,13 @@
 
 ##  Copyright 
 
-All the contents are from the book  "REST API Design Rulebook" .
-All rights reserved by the author and publisher
+
+---
+
+**All the contents are from the book  "REST API Design Rulebook" .
+All rights reserved by the author and publisher**
+
+---
 
 ## Design Rules
 
